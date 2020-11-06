@@ -1,4 +1,4 @@
-<h3>DjangoBlog<h3>
+<h3>DjangoBlog</h3>
 
 One of my old projects - blog on Django. You can use it;)
 
