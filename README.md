@@ -14,4 +14,4 @@ Additional features:
 - Example of NGINX configuration;
 - Аutomated deployment with "Fabric" (http://www.fabfile.org/).
 
-Appreciate the love and respect to <a href="https://github.com/adw0rd">@adw0rd</a> for his help and inspiration
+Appreciate the love and respect to <a href="https://github.com/adw0rd">@adw0rd</a> for his help and inspiration	&#128420;
