@@ -1,6 +1,10 @@
-{\rtf1\ansi\ansicpg1251\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+DjangoBlog
+
+One of my old projects - blog on Django. You can use it;)
+
+The main features:
+- Adding articles;
+- Categories;
+- Comments;
+- Automatic sitemap.xml and robots.txt;
+- Tools for SEO (for example - adding description, keywords <meta> tags or alt-attributes to <img>).
