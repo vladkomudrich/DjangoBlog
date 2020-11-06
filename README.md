@@ -16,3 +16,5 @@ One of my old projects - blog on Django. You can use it;)
 - Аutomated deployment with "Fabric" (http://www.fabfile.org/).
 
 Express a huge gratitude and respect to <a href="https://github.com/adw0rd">@adw0rd</a> for his help and inspiration	&#128420;
+
+...if you have questions, I'm open to communication &#128521;
