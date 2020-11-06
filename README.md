@@ -1,15 +1,16 @@
-DjangoBlog
+<h3>DjangoBlog<h3>
 
 One of my old projects - blog on Django. You can use it;)
 
-The main features:
+<strong>The main features:</strong>
 - Adding articles;
 - Categories;
 - Comments;
+- Flatpages (If you try go to About page after cloning and launching project you will get error. Firstly you need to add this page in Django Administration. Default template of this page you can find in 'templates/flatpages/default.html');
 - Automatic sitemap.xml and robots.txt;
 - Tools for SEO (for example - adding description, keywords <meta> tags or alt-attributes to <img>).
 
-Additional features:
+<strong>Additional features:</strong>
 - Example of UWSGI set up;
 - Example of NGINX configuration;
 - Аutomated deployment with "Fabric" (http://www.fabfile.org/).
